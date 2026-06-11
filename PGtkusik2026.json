@@ -1,29 +1,16 @@
-,{
-  "showDialog": true,
-  "title": "🔐 ID Login",
-  "description": "Only Login Button पर Click करे ।",
-  "button": "LOGIN",
-  "toast": "✅ ID Successfully Logged In!",
-  "renewUrl": "https://t.me/hitesh125sf",
-  "devices": [
-    {
-      "device_id": "441ba50c4a2a94ce",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-11-11"
-    },
-    {
-      "device_id": "441ba50c4a2a94ce",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-11-11"
-    },
-    {
-      "device_id": "441ba50c4a2a94ce",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-11-11"
-    }
-   }
-  ]
-}
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
